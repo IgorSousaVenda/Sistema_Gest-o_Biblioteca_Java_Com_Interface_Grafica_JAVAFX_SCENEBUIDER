@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="613.0" prefWidth="1188.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="biblioteca.leitorController">
+    <children>
+        <ImageView fitHeight="627.0" fitWidth="1197.0" smooth="false">
+            <image>
+                <Image url="@../img/foto_menu_principal.jpg" />
+            </image>
+        </ImageView>
+        <AnchorPane prefHeight="200.0" prefWidth="200.0">
+            <children>
+                <Pane layoutX="170.0" layoutY="33.0" prefHeight="511.0" prefWidth="842.0" style="-fx-background-color: rgb(255, 242, 242); -fx-effect: innershadow(gaussian, rgba(0,0,0,0.2), 5, 0, 0, 0); -fx-background-radius: 10px;">
+                    <effect>
+                        <Glow level="1.0" />
+                    </effect>
+                    <children>
+                        <Label fx:id="totalLivrosLeitorLabel" layoutX="703.0" layoutY="12.0" prefHeight="28.0" prefWidth="127.0" styleClass="header-label" text="Total Leitores: 0" textFill="#2d336b">
+                            <font>
+                                <Font name="Arial" size="15.0" />
+                            </font>
+                        </Label>
+                        <Text fill="#2d336b" layoutX="525.0" layoutY="80.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-weight: bold;" text="Gerenciar Leitores">
+                            <font>
+                                <Font size="21.0" />
+                            </font>
+                        </Text>
+                        <TableView fx:id="tableGerenciarLeitor" layoutX="8.0" layoutY="211.0" prefHeight="294.0" prefWidth="823.0" style="-fx-background-radius: 10px;">
+                            <columns>
+                                <TableColumn fx:id="nomeLeitorTableCollumn" prefWidth="215.33334350585938" text="Nome do Leitor" />
+                                <TableColumn fx:id="emailLeitorTableCollumn" prefWidth="208.00006103515625" text="Email" />
+                                <TableColumn fx:id="telefoneLeitorTableColumn" prefWidth="160.6666259765625" text="Telefone" />
+                                <TableColumn fx:id="endercoLeitorTableCollumn" prefWidth="251.3333740234375" text="Enderço" />
+                            </columns>
+                        </TableView>
+                  <VBox layoutX="8.0" layoutY="89.0" prefHeight="104.0" prefWidth="823.0" spacing="10.0" style="-fx-border-color: #E6E6FA; -fx-border-radius: 5; -fx-border-width: 2; -fx-background-color: white;" />
+                        <Button fx:id="btnInserir" alignment="CENTER" layoutX="501.0" layoutY="119.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="65.0" style="-fx-background-radius: 10px; -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0.2, 0, 5); -fx-font-weight: bold; -fx-font-size: 12px; -fx-background-color: green;" text="Inserir" textFill="WHITE" textOverrun="CENTER_WORD_ELLIPSIS">
+                            <font>
+                                <Font size="6.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="btnAtualizar" alignment="CENTER" layoutX="578.0" layoutY="119.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="72.0" style="-fx-background-radius: 10px; -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0.2, 0, 5); -fx-font-weight: bold; -fx-font-size: 12px; -fx-background-color: rgb(31, 143, 232);" text="Atualizar" textFill="WHITE" textOverrun="CENTER_WORD_ELLIPSIS">
+                            <font>
+                                <Font size="6.0" />
+                            </font>
+                        </Button>
+                        <Button fx:id="btnEliminar" alignment="CENTER" layoutX="667.0" layoutY="121.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="72.0" style="-fx-background-radius: 10px; -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0.2, 0, 5); -fx-font-weight: bold; -fx-font-size: 12px; -fx-background-color: red;" text="Eliminar" textFill="WHITE" textOverrun="CENTER_WORD_ELLIPSIS">
+                            <font>
+                                <Font size="6.0" />
+                            </font>
+                        </Button>
+                  <ImageView fitHeight="92.0" fitWidth="84.0" layoutX="572.0" layoutY="-7.0" pickOnBounds="true">
+                     <image>
+                        <Image url="@../img/Reading.png" />
+                     </image>
+                  </ImageView>
+                        <TextField fx:id="nomeField" layoutX="64.0" layoutY="102.0" nodeOrientation="LEFT_TO_RIGHT" promptText="Nome" />
+                        <TextField fx:id="emailField" layoutX="64.0" layoutY="140.0" nodeOrientation="LEFT_TO_RIGHT" promptText="Email" />
+                        <TextField fx:id="telefoneField" layoutX="228.0" layoutY="102.0" nodeOrientation="LEFT_TO_RIGHT" promptText="Telefone" />
+                        <TextField fx:id="endercoField" layoutX="228.0" layoutY="140.0" nodeOrientation="LEFT_TO_RIGHT" promptText="Endereço" />
+                        <Label layoutX="64.0" layoutY="58.0" prefHeight="28.0" prefWidth="200.0" styleClass="header-label" text="Preencha os Campos de Leitor" textFill="#2d336b">
+                            <font>
+                                <Font name="Arial" size="14.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="btnVoltar" alignment="CENTER" graphicTextGap="0.0" layoutX="64.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleVoltar" prefHeight="25.0" prefWidth="105.0" style="-fx-background-radius: px; -fx-font-size: 10px; -fx-background-color: #6C757D;" text="Voltar" textFill="WHITE" textOverrun="CLIP" wrapText="true">
+                            <font>
+                                <Font size="6.0" />
+                            </font>
+                        </Button>
+                    </children>
+                </Pane>
+            </children>
+        </AnchorPane>
+    </children>
+</StackPane>

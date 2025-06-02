@@ -1,0 +1,20 @@
+# Ignorar ficheiros temporários
+*.class
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Dados sensíveis
+*.db
+*.bak
+
+# Pastas
+bin/
+out/
+sql/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store

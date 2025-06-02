@@ -1,0 +1,1308 @@
+2025-06-01 13:24:56 - Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 13:28:05 - Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 13:35:24 - Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 13:44:42 - Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 13:44:52 - Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 13:44:52 - SecondaryController inicializado.
+2025-06-01 13:44:52 - SecondaryController: Chamando loadData().
+2025-06-01 13:44:52 - loadData() chamado.
+2025-06-01 13:44:52 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 13:44:52 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 13:44:52 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:10:00 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:10:54 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:15:17 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:22:32 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:24:24 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:35:45 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:37:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:38:10 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:38:10 - SecondaryController inicializado.
+2025-06-01 14:38:10 - SecondaryController: Chamando loadData().
+2025-06-01 14:38:10 - loadData() chamado.
+2025-06-01 14:38:10 - Erro ao obter todos os leitores: Unknown column 'endereco' in 'field list'
+2025-06-01 14:38:10 - loadData(): SistemaBiblioteca retornou 0 leitores.
+2025-06-01 14:38:10 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:38:10 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 14:38:10 - Erro ao obter todos os exemplares: Unknown column 'status' in 'field list'
+2025-06-01 14:38:10 - Total de livros disponíveis: 0
+2025-06-01 14:39:27 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:39:36 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:39:36 - SecondaryController inicializado.
+2025-06-01 14:39:36 - SecondaryController: Chamando loadData().
+2025-06-01 14:39:36 - loadData() chamado.
+2025-06-01 14:39:36 - Erro ao obter todos os leitores: Unknown column 'endereco' in 'field list'
+2025-06-01 14:39:36 - loadData(): SistemaBiblioteca retornou 0 leitores.
+2025-06-01 14:39:36 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:39:36 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 14:39:36 - Erro ao obter todos os exemplares: Unknown column 'status' in 'field list'
+2025-06-01 14:39:36 - Total de livros disponíveis: 0
+2025-06-01 14:46:19 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:46:29 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:46:29 - SecondaryController inicializado.
+2025-06-01 14:46:29 - SecondaryController: Chamando loadData().
+2025-06-01 14:46:29 - loadData() chamado.
+2025-06-01 14:46:29 - Erro ao obter todos os leitores: Unknown column 'endereco' in 'field list'
+2025-06-01 14:46:29 - loadData(): SistemaBiblioteca retornou 0 leitores.
+2025-06-01 14:46:29 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:46:29 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 14:46:29 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 14:46:29 - Total de livros disponíveis: 3
+2025-06-01 14:52:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:52:39 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:52:40 - SecondaryController inicializado.
+2025-06-01 14:52:40 - SecondaryController: Chamando loadData().
+2025-06-01 14:52:40 - loadData() chamado.
+2025-06-01 14:52:40 - Erro ao obter todos os leitores: Unknown column 'endereco' in 'field list'
+2025-06-01 14:52:40 - loadData(): SistemaBiblioteca retornou 0 leitores.
+2025-06-01 14:52:40 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:52:40 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 14:52:40 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 14:52:40 - Total de livros disponíveis: 3
+2025-06-01 14:54:38 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:54:49 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:54:49 - SecondaryController inicializado.
+2025-06-01 14:54:49 - SecondaryController: Chamando loadData().
+2025-06-01 14:54:49 - loadData() chamado.
+2025-06-01 14:54:49 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 14:54:49 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 14:54:49 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:54:49 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 14:54:49 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 14:54:49 - Total de livros disponíveis: 3
+2025-06-01 14:56:17 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:56:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 14:56:28 - SecondaryController inicializado.
+2025-06-01 14:56:28 - SecondaryController: Chamando loadData().
+2025-06-01 14:56:28 - loadData() chamado.
+2025-06-01 14:56:28 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 14:56:28 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 14:56:28 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 14:56:28 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 14:56:28 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 14:56:28 - Total de livros disponíveis: 3
+2025-06-01 19:24:44 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 19:24:58 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 19:24:59 - SecondaryController inicializado.
+2025-06-01 19:24:59 - SecondaryController: Chamando loadData().
+2025-06-01 19:24:59 - loadData() chamado.
+2025-06-01 19:24:59 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 19:24:59 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 19:24:59 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 19:24:59 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 19:24:59 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 19:24:59 - Total de livros disponíveis: 3
+2025-06-01 19:25:17 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 19:25:29 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 19:25:29 - SecondaryController inicializado.
+2025-06-01 19:25:29 - SecondaryController: Chamando loadData().
+2025-06-01 19:25:29 - loadData() chamado.
+2025-06-01 19:25:29 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 19:25:29 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 19:25:29 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 19:25:29 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 19:25:29 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 19:25:29 - Total de livros disponíveis: 3
+2025-06-01 19:47:11 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 19:47:53 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 19:47:53 - SecondaryController inicializado.
+2025-06-01 19:47:53 - SecondaryController: Chamando loadData().
+2025-06-01 19:47:53 - loadData() chamado.
+2025-06-01 19:47:53 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 19:47:53 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 19:47:53 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 19:47:53 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 19:47:53 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 19:47:53 - Total de livros disponíveis: 3
+2025-06-01 20:00:29 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:00:42 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:00:48 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:07:55 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:08:12 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:08:13 - SecondaryController inicializado.
+2025-06-01 20:08:13 - SecondaryController: Chamando loadData().
+2025-06-01 20:08:13 - loadData() chamado.
+2025-06-01 20:08:13 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:08:13 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 20:08:13 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 20:08:13 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 20:08:13 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 20:08:13 - Total de livros disponíveis: 3
+2025-06-01 20:08:22 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 20:08:22 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:08:22 - leitorController inicializado.
+2025-06-01 20:08:22 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:08:22 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:08:22 - leitorController: 4 leitores carregados.
+2025-06-01 20:09:02 - Botão Inserir Leitor clicado.
+2025-06-01 20:09:09 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:09:09 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:09:09 - leitorController: 5 leitores carregados.
+2025-06-01 20:09:14 - Botão Eliminar Leitor clicado.
+2025-06-01 20:09:21 - Botão Atualizar Leitor clicado.
+2025-06-01 20:09:36 - Botão Atualizar Leitor clicado.
+2025-06-01 20:09:38 - Botão Inserir Leitor clicado.
+2025-06-01 20:09:39 - Erro ao adicionar leitor: Duplicate entry 'maria@example.com' for key 'leitor.email'
+2025-06-01 20:09:46 - Botão Eliminar Leitor clicado.
+2025-06-01 20:09:55 - Botão Atualizar Leitor clicado.
+2025-06-01 20:09:56 - Botão Eliminar Leitor clicado.
+2025-06-01 20:11:06 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:11:19 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:11:20 - SecondaryController inicializado.
+2025-06-01 20:11:20 - SecondaryController: Chamando loadData().
+2025-06-01 20:11:20 - loadData() chamado.
+2025-06-01 20:11:20 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:11:20 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 20:11:20 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 20:11:20 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 20:11:20 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 20:11:20 - Total de livros disponíveis: 3
+2025-06-01 20:11:55 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 20:11:55 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:11:55 - leitorController inicializado.
+2025-06-01 20:11:55 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:11:55 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:11:55 - leitorController: 5 leitores carregados.
+2025-06-01 20:12:11 - Botão Atualizar Leitor clicado.
+2025-06-01 20:12:44 - Botão Atualizar Leitor clicado.
+2025-06-01 20:12:50 - Botão Eliminar Leitor clicado.
+2025-06-01 20:31:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:32:13 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:32:13 - SecondaryController inicializado.
+2025-06-01 20:32:13 - SecondaryController: Chamando loadData().
+2025-06-01 20:32:13 - loadData() chamado.
+2025-06-01 20:32:13 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:32:13 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 20:32:13 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 20:32:13 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 20:32:13 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 20:32:13 - Total de livros disponíveis: 3
+2025-06-01 20:32:55 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 20:32:55 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:32:55 - leitorController inicializado.
+2025-06-01 20:32:55 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:32:55 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:32:55 - leitorController: 4 leitores carregados.
+2025-06-01 20:33:44 - Botão Atualizar Leitor clicado.
+2025-06-01 20:33:44 - updateLeitor: Leitor ID 2 atualizado. Linhas afetadas: 1
+2025-06-01 20:33:46 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:33:46 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:33:46 - leitorController: 4 leitores carregados.
+2025-06-01 20:33:58 - Botão Eliminar Leitor clicado.
+2025-06-01 20:33:59 - deleteLeitor: Leitor ID 3 deletado. Linhas afetadas: 1
+2025-06-01 20:34:00 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:34:00 - SistemaBiblioteca: Fetched 3 leitores.
+2025-06-01 20:34:00 - leitorController: 3 leitores carregados.
+2025-06-01 20:44:38 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:45:37 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:45:37 - SecondaryController inicializado.
+2025-06-01 20:45:37 - SecondaryController: Chamando loadData().
+2025-06-01 20:45:37 - loadData() chamado.
+2025-06-01 20:45:37 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:45:37 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 20:45:37 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 20:45:37 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 20:45:37 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 20:45:37 - Total de livros disponíveis: 3
+2025-06-01 20:45:53 - Botão 'Gerenciar Autores' clicado!
+2025-06-01 20:45:56 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 20:45:56 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:45:57 - leitorController inicializado.
+2025-06-01 20:45:57 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:45:57 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:45:57 - leitorController: 4 leitores carregados.
+2025-06-01 20:55:36 - Botão Inserir Leitor clicado.
+2025-06-01 20:55:36 - addLeitor: Leitor 'Gilberto Bongue' adicionado com ID 9. Linhas afetadas: 1
+2025-06-01 20:55:38 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:55:38 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:55:38 - leitorController: 5 leitores carregados.
+2025-06-01 22:36:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:37:10 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:37:11 - SecondaryController inicializado.
+2025-06-01 22:37:11 - SecondaryController: Chamando loadData().
+2025-06-01 22:37:11 - loadData() chamado.
+2025-06-01 22:37:11 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:37:11 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:37:11 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:37:11 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:37:11 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:37:11 - Total de livros disponíveis: 3
+2025-06-01 22:37:24 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:37:24 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:37:24 - leitorController inicializado.
+2025-06-01 22:37:24 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:37:24 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:37:24 - leitorController: 5 leitores carregados.
+2025-06-01 22:37:29 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 22:37:29 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:37:29 - SecondaryController inicializado.
+2025-06-01 22:37:29 - SecondaryController: Chamando loadData().
+2025-06-01 22:37:29 - loadData() chamado.
+2025-06-01 22:37:29 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:37:29 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:37:29 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:37:29 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:37:29 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:37:29 - Total de livros disponíveis: 3
+2025-06-01 22:37:37 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:37:37 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:37:37 - leitorController inicializado.
+2025-06-01 22:37:37 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:37:37 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:37:37 - leitorController: 5 leitores carregados.
+2025-06-01 22:43:49 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:04 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:04 - SecondaryController inicializado.
+2025-06-01 22:44:04 - SecondaryController: Chamando loadData().
+2025-06-01 22:44:04 - loadData() chamado.
+2025-06-01 22:44:04 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:44:04 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:44:04 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:44:04 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:44:04 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:44:04 - Total de livros disponíveis: 3
+2025-06-01 22:44:21 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:44:21 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:21 - leitorController inicializado.
+2025-06-01 22:44:21 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:44:21 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:44:21 - leitorController: 5 leitores carregados.
+2025-06-01 22:44:24 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 22:44:24 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:24 - SecondaryController inicializado.
+2025-06-01 22:44:24 - SecondaryController: Chamando loadData().
+2025-06-01 22:44:24 - loadData() chamado.
+2025-06-01 22:44:24 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:44:24 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:44:24 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:44:24 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:44:24 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:44:24 - Total de livros disponíveis: 3
+2025-06-01 22:44:26 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:44:26 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:26 - leitorController inicializado.
+2025-06-01 22:44:26 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:44:26 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:44:26 - leitorController: 5 leitores carregados.
+2025-06-01 22:44:28 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 22:44:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:28 - SecondaryController inicializado.
+2025-06-01 22:44:28 - SecondaryController: Chamando loadData().
+2025-06-01 22:44:28 - loadData() chamado.
+2025-06-01 22:44:28 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:44:28 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:44:28 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:44:28 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:44:28 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:44:28 - Total de livros disponíveis: 3
+2025-06-01 22:44:33 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:44:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:44:34 - leitorController inicializado.
+2025-06-01 22:44:34 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:44:34 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:44:34 - leitorController: 5 leitores carregados.
+2025-06-01 22:48:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:48:41 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:48:41 - SecondaryController inicializado.
+2025-06-01 22:48:41 - SecondaryController: Chamando loadData().
+2025-06-01 22:48:41 - loadData() chamado.
+2025-06-01 22:48:41 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:48:41 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:48:41 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:48:41 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:48:41 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:48:41 - Total de livros disponíveis: 3
+2025-06-01 22:48:45 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:48:45 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:48:46 - leitorController inicializado.
+2025-06-01 22:48:46 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:48:46 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:48:46 - leitorController: 5 leitores carregados.
+2025-06-01 22:48:51 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 22:48:51 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:48:51 - SecondaryController inicializado.
+2025-06-01 22:48:51 - SecondaryController: Chamando loadData().
+2025-06-01 22:48:51 - loadData() chamado.
+2025-06-01 22:48:51 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:48:51 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 22:48:51 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 22:48:51 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 22:48:51 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 22:48:51 - Total de livros disponíveis: 3
+2025-06-01 22:48:56 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 22:48:56 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 22:48:57 - leitorController inicializado.
+2025-06-01 22:48:57 - leitorController: Carregando dados dos leitores.
+2025-06-01 22:48:57 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 22:48:57 - leitorController: 5 leitores carregados.
+2025-06-01 23:02:55 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:03:06 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:03:07 - SecondaryController inicializado.
+2025-06-01 23:03:07 - SecondaryController: Chamando loadData().
+2025-06-01 23:03:07 - loadData() chamado.
+2025-06-01 23:03:07 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:03:07 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 23:03:07 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:03:07 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:03:07 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:03:07 - Total de livros disponíveis: 3
+2025-06-01 23:03:15 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 23:03:15 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:03:15 - leitorController inicializado.
+2025-06-01 23:03:15 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:03:15 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:03:15 - leitorController: 5 leitores carregados.
+2025-06-01 23:03:21 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 23:03:22 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:03:22 - SecondaryController inicializado.
+2025-06-01 23:03:22 - SecondaryController: Chamando loadData().
+2025-06-01 23:03:22 - loadData() chamado.
+2025-06-01 23:03:22 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:03:22 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 23:03:22 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:03:22 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:03:22 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:03:22 - Total de livros disponíveis: 3
+2025-06-01 23:03:29 - Conexão com o MySQL fechada para SistemaBiblioteca.
+2025-06-01 23:03:29 - Conexão com o BD fechada ao sair.
+2025-06-01 23:16:07 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:16:17 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:16:17 - SecondaryController inicializado.
+2025-06-01 23:16:17 - SecondaryController: Chamando loadData().
+2025-06-01 23:16:17 - loadData() chamado.
+2025-06-01 23:16:17 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:16:17 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 23:16:18 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:16:18 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:16:18 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:16:18 - Total de livros disponíveis: 3
+2025-06-01 23:16:33 - Conexão com o MySQL fechada para SistemaBiblioteca.
+2025-06-01 23:16:33 - Conexão com o BD fechada ao sair.
+2025-06-01 23:16:41 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:16:54 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:16:55 - SecondaryController inicializado.
+2025-06-01 23:16:55 - SecondaryController: Chamando loadData().
+2025-06-01 23:16:55 - loadData() chamado.
+2025-06-01 23:16:55 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:16:55 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 23:16:55 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:16:55 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:16:55 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:16:55 - Total de livros disponíveis: 3
+2025-06-01 23:17:00 - Botão 'Gerenciar Livros' clicado!
+2025-06-01 23:17:03 - Botão 'Gerenciar Livros' clicado!
+2025-06-01 23:17:04 - Botão 'Gerenciar Livros' clicado!
+2025-06-01 23:17:06 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 23:17:06 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:17:06 - leitorController inicializado.
+2025-06-01 23:17:06 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:17:06 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:17:06 - leitorController: 5 leitores carregados.
+2025-06-01 23:39:11 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:39:26 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:39:27 - SecondaryController inicializado.
+2025-06-01 23:39:27 - SecondaryController: Chamando loadData().
+2025-06-01 23:39:27 - loadData() chamado.
+2025-06-01 23:39:27 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:39:27 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 23:39:27 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:39:27 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:39:27 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:39:27 - Total de livros disponíveis: 3
+2025-06-01 23:39:47 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 23:39:48 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:39:48 - leitorController inicializado.
+2025-06-01 23:39:48 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:39:48 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 23:39:48 - leitorController: 5 leitores carregados.
+2025-06-01 23:41:29 - Botão Inserir Leitor clicado.
+2025-06-01 23:41:29 - addLeitor: Leitor 'Marcio Venda' adicionado com ID 10. Linhas afetadas: 1
+2025-06-01 23:41:31 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:41:31 - SistemaBiblioteca: Fetched 6 leitores.
+2025-06-01 23:41:31 - leitorController: 6 leitores carregados.
+2025-06-01 23:44:13 - Botão Inserir Leitor clicado.
+2025-06-01 23:44:13 - addLeitor: Leitor 'Jacira Fernandes' adicionado com ID 11. Linhas afetadas: 1
+2025-06-01 23:44:15 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:44:15 - SistemaBiblioteca: Fetched 7 leitores.
+2025-06-01 23:44:15 - leitorController: 7 leitores carregados.
+2025-06-01 23:45:00 - Botão Inserir Leitor clicado.
+2025-06-01 23:45:00 - addLeitor: Leitor 'João Manuel Sebastião' adicionado com ID 12. Linhas afetadas: 1
+2025-06-01 23:45:01 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:45:01 - SistemaBiblioteca: Fetched 8 leitores.
+2025-06-01 23:45:01 - leitorController: 8 leitores carregados.
+2025-06-01 23:45:38 - Botão Inserir Leitor clicado.
+2025-06-01 23:45:38 - addLeitor: Leitor 'Maria José António' adicionado com ID 13. Linhas afetadas: 1
+2025-06-01 23:45:39 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:45:39 - SistemaBiblioteca: Fetched 9 leitores.
+2025-06-01 23:45:39 - leitorController: 9 leitores carregados.
+2025-06-01 23:46:15 - Botão Inserir Leitor clicado.
+2025-06-01 23:46:15 - addLeitor: Leitor 'Carlos Alberto David' adicionado com ID 14. Linhas afetadas: 1
+2025-06-01 23:46:16 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:46:16 - SistemaBiblioteca: Fetched 10 leitores.
+2025-06-01 23:46:16 - leitorController: 10 leitores carregados.
+2025-06-01 23:46:57 - Botão Inserir Leitor clicado.
+2025-06-01 23:46:57 - addLeitor: Leitor 'Teresa Vicente Paulo' adicionado com ID 15. Linhas afetadas: 1
+2025-06-01 23:46:59 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:46:59 - SistemaBiblioteca: Fetched 11 leitores.
+2025-06-01 23:46:59 - leitorController: 11 leitores carregados.
+2025-06-01 23:47:35 - Botão Inserir Leitor clicado.
+2025-06-01 23:47:35 - addLeitor: Leitor 'Domingos Alfredo Neto' adicionado com ID 16. Linhas afetadas: 1
+2025-06-01 23:47:37 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:47:37 - SistemaBiblioteca: Fetched 12 leitores.
+2025-06-01 23:47:37 - leitorController: 12 leitores carregados.
+2025-06-01 23:48:25 - Botão Inserir Leitor clicado.
+2025-06-01 23:48:25 - addLeitor: Leitor 'Isabel Nunes Jorge' adicionado com ID 17. Linhas afetadas: 1
+2025-06-01 23:48:26 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:48:26 - SistemaBiblioteca: Fetched 13 leitores.
+2025-06-01 23:48:26 - leitorController: 13 leitores carregados.
+2025-06-01 23:49:19 - Botão Atualizar Leitor clicado.
+2025-06-01 23:49:19 - updateLeitor: Leitor ID 1 atualizado. Linhas afetadas: 1
+2025-06-01 23:49:20 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:49:21 - SistemaBiblioteca: Fetched 13 leitores.
+2025-06-01 23:49:21 - leitorController: 13 leitores carregados.
+2025-06-01 23:49:37 - Botão Atualizar Leitor clicado.
+2025-06-01 23:49:37 - updateLeitor: Leitor ID 2 atualizado. Linhas afetadas: 1
+2025-06-01 23:49:39 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:49:39 - SistemaBiblioteca: Fetched 13 leitores.
+2025-06-01 23:49:39 - leitorController: 13 leitores carregados.
+2025-06-01 23:50:00 - Botão Atualizar Leitor clicado.
+2025-06-01 23:50:00 - updateLeitor: Leitor ID 8 atualizado. Linhas afetadas: 1
+2025-06-01 23:50:01 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:50:01 - SistemaBiblioteca: Fetched 13 leitores.
+2025-06-01 23:50:01 - leitorController: 13 leitores carregados.
+2025-06-01 23:50:36 - Botão Inserir Leitor clicado.
+2025-06-01 23:50:36 - addLeitor: Leitor 'Joana Francisco Lemos' adicionado com ID 18. Linhas afetadas: 1
+2025-06-01 23:50:37 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:50:37 - SistemaBiblioteca: Fetched 14 leitores.
+2025-06-01 23:50:37 - leitorController: 14 leitores carregados.
+2025-06-01 23:50:44 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 23:50:44 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:50:45 - SecondaryController inicializado.
+2025-06-01 23:50:45 - SecondaryController: Chamando loadData().
+2025-06-01 23:50:45 - loadData() chamado.
+2025-06-01 23:50:45 - SistemaBiblioteca: Fetched 14 leitores.
+2025-06-01 23:50:45 - loadData(): SistemaBiblioteca retornou 14 leitores.
+2025-06-01 23:50:45 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:50:45 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:50:45 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:50:45 - Total de livros disponíveis: 3
+2025-06-01 23:51:02 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 23:51:02 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:51:02 - leitorController inicializado.
+2025-06-01 23:51:02 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:51:02 - SistemaBiblioteca: Fetched 14 leitores.
+2025-06-01 23:51:02 - leitorController: 14 leitores carregados.
+2025-06-01 23:51:39 - Botão Inserir Leitor clicado.
+2025-06-01 23:51:39 - addLeitor: Leitor 'Pedro Miguel Tomás' adicionado com ID 19. Linhas afetadas: 1
+2025-06-01 23:51:40 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:51:40 - SistemaBiblioteca: Fetched 15 leitores.
+2025-06-01 23:51:40 - leitorController: 15 leitores carregados.
+2025-06-01 23:52:25 - Botão Inserir Leitor clicado.
+2025-06-01 23:52:25 - addLeitor: Leitor 'Domingos Nunes' adicionado com ID 20. Linhas afetadas: 1
+2025-06-01 23:52:26 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:52:27 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-01 23:52:27 - leitorController: 16 leitores carregados.
+2025-06-01 23:52:28 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 23:52:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:52:28 - SecondaryController inicializado.
+2025-06-01 23:52:28 - SecondaryController: Chamando loadData().
+2025-06-01 23:52:28 - loadData() chamado.
+2025-06-01 23:52:28 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-01 23:52:28 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-01 23:52:28 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:52:28 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:52:28 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:52:28 - Total de livros disponíveis: 3
+2025-06-01 23:52:39 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 23:52:39 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:52:39 - leitorController inicializado.
+2025-06-01 23:52:39 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:52:39 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-01 23:52:39 - leitorController: 16 leitores carregados.
+2025-06-01 23:53:50 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-01 23:53:50 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:53:51 - SecondaryController inicializado.
+2025-06-01 23:53:51 - SecondaryController: Chamando loadData().
+2025-06-01 23:53:51 - loadData() chamado.
+2025-06-01 23:53:51 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-01 23:53:51 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-01 23:53:51 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:53:51 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:53:51 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:53:51 - Total de livros disponíveis: 3
+2025-06-01 23:53:53 - Conexão com o MySQL fechada para SistemaBiblioteca.
+2025-06-01 23:53:53 - Conexão com o BD fechada ao sair.
+2025-06-01 23:54:05 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:54:19 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:54:19 - SecondaryController inicializado.
+2025-06-01 23:54:19 - SecondaryController: Chamando loadData().
+2025-06-01 23:54:19 - loadData() chamado.
+2025-06-01 23:54:19 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-01 23:54:19 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-01 23:54:19 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 23:54:19 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 23:54:19 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 23:54:19 - Total de livros disponíveis: 3
+2025-06-01 23:54:58 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 23:54:58 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 23:54:58 - leitorController inicializado.
+2025-06-01 23:54:58 - leitorController: Carregando dados dos leitores.
+2025-06-01 23:54:58 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-01 23:54:58 - leitorController: 16 leitores carregados.
+2025-06-02 00:09:03 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 00:10:07 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 00:10:08 - SecondaryController inicializado.
+2025-06-02 00:10:08 - SecondaryController: Chamando loadData().
+2025-06-02 00:10:08 - loadData() chamado.
+2025-06-02 00:10:08 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 00:10:08 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 00:10:08 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 00:10:08 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 00:10:08 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 00:10:08 - Total de livros disponíveis: 3
+2025-06-02 00:11:54 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 00:11:54 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 00:11:55 - leitorController inicializado.
+2025-06-02 00:11:55 - leitorController: Carregando dados dos leitores.
+2025-06-02 00:11:55 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 00:11:55 - leitorController: 16 leitores carregados.
+2025-06-02 00:12:30 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 00:12:30 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 00:12:30 - SecondaryController inicializado.
+2025-06-02 00:12:30 - SecondaryController: Chamando loadData().
+2025-06-02 00:12:30 - loadData() chamado.
+2025-06-02 00:12:30 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 00:12:30 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 00:12:30 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 00:12:30 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 00:12:30 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 00:12:30 - Total de livros disponíveis: 3
+2025-06-02 00:12:35 - Botão 'Gerenciar Livros' clicado!
+2025-06-02 00:12:37 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 00:12:37 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 00:12:37 - leitorController inicializado.
+2025-06-02 00:12:37 - leitorController: Carregando dados dos leitores.
+2025-06-02 00:12:37 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 00:12:37 - leitorController: 16 leitores carregados.
+2025-06-02 01:17:53 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:04 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:05 - SecondaryController inicializado.
+2025-06-02 01:18:05 - SecondaryController: Chamando loadData().
+2025-06-02 01:18:05 - loadData() chamado.
+2025-06-02 01:18:05 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:18:05 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:18:05 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:18:05 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:18:05 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:18:05 - Total de livros disponíveis: 3
+2025-06-02 01:18:10 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 01:18:10 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:10 - leitorController inicializado.
+2025-06-02 01:18:10 - leitorController: Carregando dados dos leitores.
+2025-06-02 01:18:10 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:18:10 - leitorController: 16 leitores carregados.
+2025-06-02 01:18:13 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 01:18:13 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:13 - SecondaryController inicializado.
+2025-06-02 01:18:13 - SecondaryController: Chamando loadData().
+2025-06-02 01:18:13 - loadData() chamado.
+2025-06-02 01:18:13 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:18:13 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:18:13 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:18:13 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:18:13 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:18:13 - Total de livros disponíveis: 3
+2025-06-02 01:18:14 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:18:14 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:15 - livrosController inicializado.
+2025-06-02 01:18:15 - livrosController: Carregando dados dos livros.
+2025-06-02 01:18:15 - Erro ao obter todos os livros: Unknown column 'l.id_autor' in 'field list'
+2025-06-02 01:18:15 - livrosController: 0 livros carregados.
+2025-06-02 01:18:25 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 01:18:25 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:25 - SecondaryController inicializado.
+2025-06-02 01:18:25 - SecondaryController: Chamando loadData().
+2025-06-02 01:18:25 - loadData() chamado.
+2025-06-02 01:18:25 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:18:25 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:18:25 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:18:25 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:18:25 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:18:25 - Total de livros disponíveis: 3
+2025-06-02 01:18:33 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:18:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:18:33 - livrosController inicializado.
+2025-06-02 01:18:33 - livrosController: Carregando dados dos livros.
+2025-06-02 01:18:33 - Erro ao obter todos os livros: Unknown column 'l.id_autor' in 'field list'
+2025-06-02 01:18:33 - livrosController: 0 livros carregados.
+2025-06-02 01:22:51 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:23:02 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:23:02 - SecondaryController inicializado.
+2025-06-02 01:23:02 - SecondaryController: Chamando loadData().
+2025-06-02 01:23:02 - loadData() chamado.
+2025-06-02 01:23:02 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:23:02 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:23:02 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:23:02 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:23:02 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:23:02 - Total de livros disponíveis: 3
+2025-06-02 01:23:07 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:23:07 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:23:07 - livrosController inicializado.
+2025-06-02 01:23:07 - livrosController: Carregando dados dos livros.
+2025-06-02 01:23:07 - Erro ao obter todos os livros: Unknown column 'l.id_autor' in 'field list'
+2025-06-02 01:23:07 - livrosController: 0 livros carregados.
+2025-06-02 01:23:48 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:23:59 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:23:59 - SecondaryController inicializado.
+2025-06-02 01:23:59 - SecondaryController: Chamando loadData().
+2025-06-02 01:23:59 - loadData() chamado.
+2025-06-02 01:23:59 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:23:59 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:23:59 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:23:59 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:23:59 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:23:59 - Total de livros disponíveis: 3
+2025-06-02 01:24:05 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:24:05 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:24:05 - livrosController inicializado.
+2025-06-02 01:24:05 - livrosController: Carregando dados dos livros.
+2025-06-02 01:24:05 - Erro ao obter todos os livros: Unknown column 'l.id_autor' in 'field list'
+2025-06-02 01:24:05 - livrosController: 0 livros carregados.
+2025-06-02 01:36:02 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:36:12 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:36:13 - SecondaryController inicializado.
+2025-06-02 01:36:13 - SecondaryController: Chamando loadData().
+2025-06-02 01:36:13 - loadData() chamado.
+2025-06-02 01:36:13 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:36:13 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:36:13 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:36:13 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:36:13 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:36:13 - Total de livros disponíveis: 3
+2025-06-02 01:36:17 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:36:17 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:36:17 - livrosController inicializado.
+2025-06-02 01:36:17 - livrosController: Carregando dados dos livros.
+2025-06-02 01:36:17 - SistemaBiblioteca: Fetched 4 livros.
+2025-06-02 01:36:17 - livrosController: 4 livros carregados.
+2025-06-02 01:37:22 - Botão Atualizar Livro clicado.
+2025-06-02 01:37:57 - Botão Inserir Livro clicado.
+2025-06-02 01:38:03 - Botão Eliminar Livro clicado.
+2025-06-02 01:38:17 - Botão Eliminar Livro clicado.
+2025-06-02 01:38:18 - deleteLivro: Livro ID 4 e suas associações de autor deletados.
+2025-06-02 01:38:20 - livrosController: Carregando dados dos livros.
+2025-06-02 01:38:20 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 01:38:20 - livrosController: 3 livros carregados.
+2025-06-02 01:38:56 - Botão Inserir Livro clicado.
+2025-06-02 01:39:04 - Botão Inserir Livro clicado.
+2025-06-02 01:51:16 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:51:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:51:28 - SecondaryController inicializado.
+2025-06-02 01:51:28 - SecondaryController: Chamando loadData().
+2025-06-02 01:51:28 - loadData() chamado.
+2025-06-02 01:51:28 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:51:28 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:51:28 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:51:28 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:51:28 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:51:28 - Total de livros disponíveis: 3
+2025-06-02 01:51:33 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:51:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:51:33 - livrosController inicializado.
+2025-06-02 01:51:33 - livrosController: Carregando dados dos livros.
+2025-06-02 01:51:33 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 01:51:33 - livrosController: 3 livros carregados.
+2025-06-02 01:52:00 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 01:52:00 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:00 - SecondaryController inicializado.
+2025-06-02 01:52:00 - SecondaryController: Chamando loadData().
+2025-06-02 01:52:00 - loadData() chamado.
+2025-06-02 01:52:00 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:00 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:52:00 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:52:00 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:52:00 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:52:00 - Total de livros disponíveis: 3
+2025-06-02 01:52:02 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 01:52:02 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:02 - leitorController inicializado.
+2025-06-02 01:52:02 - leitorController: Carregando dados dos leitores.
+2025-06-02 01:52:02 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:02 - leitorController: 16 leitores carregados.
+2025-06-02 01:52:06 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 01:52:06 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:06 - SecondaryController inicializado.
+2025-06-02 01:52:06 - SecondaryController: Chamando loadData().
+2025-06-02 01:52:06 - loadData() chamado.
+2025-06-02 01:52:06 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:06 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:52:06 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:52:06 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:52:06 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:52:06 - Total de livros disponíveis: 3
+2025-06-02 01:52:07 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:52:07 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:07 - livrosController inicializado.
+2025-06-02 01:52:07 - livrosController: Carregando dados dos livros.
+2025-06-02 01:52:07 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 01:52:07 - livrosController: 3 livros carregados.
+2025-06-02 01:52:12 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 01:52:12 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:13 - SecondaryController inicializado.
+2025-06-02 01:52:13 - SecondaryController: Chamando loadData().
+2025-06-02 01:52:13 - loadData() chamado.
+2025-06-02 01:52:13 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:13 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:52:13 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:52:13 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:52:13 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:52:13 - Total de livros disponíveis: 3
+2025-06-02 01:52:14 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 01:52:14 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:15 - leitorController inicializado.
+2025-06-02 01:52:15 - leitorController: Carregando dados dos leitores.
+2025-06-02 01:52:15 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:15 - leitorController: 16 leitores carregados.
+2025-06-02 01:52:20 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 01:52:21 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:21 - SecondaryController inicializado.
+2025-06-02 01:52:21 - SecondaryController: Chamando loadData().
+2025-06-02 01:52:21 - loadData() chamado.
+2025-06-02 01:52:21 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:21 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:52:21 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:52:21 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:52:21 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:52:21 - Total de livros disponíveis: 3
+2025-06-02 01:52:23 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 01:52:23 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:23 - leitorController inicializado.
+2025-06-02 01:52:23 - leitorController: Carregando dados dos leitores.
+2025-06-02 01:52:23 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:23 - leitorController: 16 leitores carregados.
+2025-06-02 01:52:25 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 01:52:25 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:25 - SecondaryController inicializado.
+2025-06-02 01:52:25 - SecondaryController: Chamando loadData().
+2025-06-02 01:52:25 - loadData() chamado.
+2025-06-02 01:52:25 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 01:52:25 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 01:52:25 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 01:52:25 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 01:52:25 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 01:52:25 - Total de livros disponíveis: 3
+2025-06-02 01:52:28 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 01:52:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 01:52:28 - livrosController inicializado.
+2025-06-02 01:52:28 - livrosController: Carregando dados dos livros.
+2025-06-02 01:52:28 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 01:52:28 - livrosController: 3 livros carregados.
+2025-06-02 02:28:41 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:28:52 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:28:53 - SecondaryController inicializado.
+2025-06-02 02:28:53 - SecondaryController: Chamando loadData().
+2025-06-02 02:28:53 - loadData() chamado.
+2025-06-02 02:28:53 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:28:53 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:28:53 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:28:53 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:28:53 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:28:53 - Total de livros disponíveis: 3
+2025-06-02 02:28:57 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 02:28:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:28:58 - livrosController inicializado.
+2025-06-02 02:28:58 - livrosController: Carregando dados dos livros.
+2025-06-02 02:28:58 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:28:58 - livrosController: 3 livros carregados.
+2025-06-02 02:29:01 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 02:29:01 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:01 - SecondaryController inicializado.
+2025-06-02 02:29:01 - SecondaryController: Chamando loadData().
+2025-06-02 02:29:01 - loadData() chamado.
+2025-06-02 02:29:01 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:01 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:29:01 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:29:01 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:29:01 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:29:01 - Total de livros disponíveis: 3
+2025-06-02 02:29:02 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 02:29:02 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:03 - leitorController inicializado.
+2025-06-02 02:29:03 - leitorController: Carregando dados dos leitores.
+2025-06-02 02:29:03 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:03 - leitorController: 16 leitores carregados.
+2025-06-02 02:29:06 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 02:29:06 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:06 - SecondaryController inicializado.
+2025-06-02 02:29:06 - SecondaryController: Chamando loadData().
+2025-06-02 02:29:06 - loadData() chamado.
+2025-06-02 02:29:06 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:06 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:29:06 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:29:06 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:29:06 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:29:06 - Total de livros disponíveis: 3
+2025-06-02 02:29:09 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 02:29:09 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:09 - livrosController inicializado.
+2025-06-02 02:29:09 - livrosController: Carregando dados dos livros.
+2025-06-02 02:29:09 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:29:09 - livrosController: 3 livros carregados.
+2025-06-02 02:29:15 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 02:29:15 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:15 - SecondaryController inicializado.
+2025-06-02 02:29:15 - SecondaryController: Chamando loadData().
+2025-06-02 02:29:15 - loadData() chamado.
+2025-06-02 02:29:15 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:15 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:29:15 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:29:15 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:29:15 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:29:15 - Total de livros disponíveis: 3
+2025-06-02 02:29:25 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 02:29:25 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:25 - livrosController inicializado.
+2025-06-02 02:29:25 - livrosController: Carregando dados dos livros.
+2025-06-02 02:29:25 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:29:25 - livrosController: 3 livros carregados.
+2025-06-02 02:29:28 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 02:29:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:29 - SecondaryController inicializado.
+2025-06-02 02:29:29 - SecondaryController: Chamando loadData().
+2025-06-02 02:29:29 - loadData() chamado.
+2025-06-02 02:29:29 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:29 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:29:29 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:29:29 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:29:29 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:29:29 - Total de livros disponíveis: 3
+2025-06-02 02:29:35 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 02:29:35 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:35 - leitorController inicializado.
+2025-06-02 02:29:35 - leitorController: Carregando dados dos leitores.
+2025-06-02 02:29:35 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:35 - leitorController: 16 leitores carregados.
+2025-06-02 02:29:37 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 02:29:37 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:37 - SecondaryController inicializado.
+2025-06-02 02:29:37 - SecondaryController: Chamando loadData().
+2025-06-02 02:29:37 - loadData() chamado.
+2025-06-02 02:29:37 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:37 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:29:37 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:29:37 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:29:37 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:29:37 - Total de livros disponíveis: 3
+2025-06-02 02:29:39 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 02:29:39 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:39 - livrosController inicializado.
+2025-06-02 02:29:39 - livrosController: Carregando dados dos livros.
+2025-06-02 02:29:39 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:29:39 - livrosController: 3 livros carregados.
+2025-06-02 02:29:41 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 02:29:41 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:29:41 - SecondaryController inicializado.
+2025-06-02 02:29:41 - SecondaryController: Chamando loadData().
+2025-06-02 02:29:41 - loadData() chamado.
+2025-06-02 02:29:41 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:29:41 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:29:41 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:29:41 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:29:41 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:29:41 - Total de livros disponíveis: 3
+2025-06-02 02:38:38 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:38:48 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:38:48 - SecondaryController inicializado.
+2025-06-02 02:38:48 - SecondaryController: Chamando loadData().
+2025-06-02 02:38:48 - loadData() chamado.
+2025-06-02 02:38:48 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:38:48 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:38:48 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:38:48 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:38:48 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:38:48 - Total de livros disponíveis: 3
+2025-06-02 02:38:53 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 02:38:53 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:38:53 - livrosController inicializado.
+2025-06-02 02:38:53 - livrosController: Carregando dados dos livros.
+2025-06-02 02:38:53 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:38:53 - livrosController: 3 livros carregados.
+2025-06-02 02:38:57 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 02:38:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:38:57 - SecondaryController inicializado.
+2025-06-02 02:38:57 - SecondaryController: Chamando loadData().
+2025-06-02 02:38:57 - loadData() chamado.
+2025-06-02 02:38:57 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:38:57 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:38:57 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:38:57 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:38:57 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:38:57 - Total de livros disponíveis: 3
+2025-06-02 02:38:58 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 02:38:58 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:38:58 - leitorController inicializado.
+2025-06-02 02:38:58 - leitorController: Carregando dados dos leitores.
+2025-06-02 02:38:58 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:38:58 - leitorController: 16 leitores carregados.
+2025-06-02 02:58:19 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:58:38 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:58:38 - SecondaryController inicializado.
+2025-06-02 02:58:38 - SecondaryController: Chamando loadData().
+2025-06-02 02:58:38 - loadData() chamado.
+2025-06-02 02:58:38 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:58:38 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:58:38 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:58:38 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:58:38 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:58:38 - Total de livros disponíveis: 3
+2025-06-02 02:58:43 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 02:58:43 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:58:43 - livrosController inicializado.
+2025-06-02 02:58:43 - livrosController: Carregando dados dos livros.
+2025-06-02 02:58:43 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:58:43 - livrosController: 3 livros carregados.
+2025-06-02 02:59:15 - Botão Atualizar Livro clicado.
+2025-06-02 02:59:15 - updateLivro: Livro ID 1 atualizado. Linhas afetadas: 1
+2025-06-02 02:59:17 - livrosController: Carregando dados dos livros.
+2025-06-02 02:59:17 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 02:59:17 - livrosController: 3 livros carregados.
+2025-06-02 02:59:33 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 02:59:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:59:33 - SecondaryController inicializado.
+2025-06-02 02:59:33 - SecondaryController: Chamando loadData().
+2025-06-02 02:59:33 - loadData() chamado.
+2025-06-02 02:59:33 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:59:33 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:59:33 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:59:33 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:59:33 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:59:33 - Total de livros disponíveis: 3
+2025-06-02 02:59:36 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 02:59:36 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:59:36 - leitorController inicializado.
+2025-06-02 02:59:36 - leitorController: Carregando dados dos leitores.
+2025-06-02 02:59:36 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:59:36 - leitorController: 16 leitores carregados.
+2025-06-02 02:59:42 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 02:59:42 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 02:59:42 - SecondaryController inicializado.
+2025-06-02 02:59:42 - SecondaryController: Chamando loadData().
+2025-06-02 02:59:42 - loadData() chamado.
+2025-06-02 02:59:42 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 02:59:42 - loadData(): SistemaBiblioteca retornou 16 leitores.
+2025-06-02 02:59:42 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-02 02:59:42 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-02 02:59:42 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-02 02:59:42 - Total de livros disponíveis: 3
+2025-06-02 03:18:05 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:18:15 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:18:15 - SecondaryController inicializado.
+2025-06-02 03:18:15 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:18:15 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:18:15 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:18:15 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:19:07 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 03:19:07 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:19:08 - livrosController inicializado.
+2025-06-02 03:19:08 - livrosController: Carregando dados dos livros.
+2025-06-02 03:19:08 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:19:08 - livrosController: 3 livros carregados.
+2025-06-02 03:19:15 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 03:19:15 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:19:15 - SecondaryController inicializado.
+2025-06-02 03:19:15 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:19:15 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:19:15 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:19:15 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:19:17 - Botão 'Gerenciar Empréstimos' clicado! Carregando tela de Empréstimos.
+2025-06-02 03:19:17 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:19:17 - emprestimosController inicializado.
+2025-06-02 03:19:17 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 03:19:17 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:19:17 - emprestimosController: 3 empréstimos carregados.
+2025-06-02 03:19:39 - Botão Emprestar Livro clicado.
+2025-06-02 03:19:53 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:54 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:54 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:54 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:54 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:55 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:56 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:19:56 - Leitor encontrado: Joana Francisco Lemos
+2025-06-02 03:20:14 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:15 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:15 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:15 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:16 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:16 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:16 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:17 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:17 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:17 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:17 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:18 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:18 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:19 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:19 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:19 - Livro encontrado: Pai Rico Pai Pobre, Exemplar disponível ID: 1
+2025-06-02 03:20:56 - Botão Emprestar Livro clicado.
+2025-06-02 03:21:20 - Botão 'Voltar' clicado na tela de Empréstimos! Retornando à tela principal.
+2025-06-02 03:21:20 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:20 - SecondaryController inicializado.
+2025-06-02 03:21:20 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:21:20 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:21:20 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:21:20 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:21:24 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 03:21:24 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:24 - livrosController inicializado.
+2025-06-02 03:21:24 - livrosController: Carregando dados dos livros.
+2025-06-02 03:21:24 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:21:24 - livrosController: 3 livros carregados.
+2025-06-02 03:21:31 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 03:21:31 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:31 - SecondaryController inicializado.
+2025-06-02 03:21:31 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:21:31 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:21:31 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:21:31 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:21:33 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 03:21:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:33 - leitorController inicializado.
+2025-06-02 03:21:33 - leitorController: Carregando dados dos leitores.
+2025-06-02 03:21:33 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 03:21:33 - leitorController: 16 leitores carregados.
+2025-06-02 03:21:37 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 03:21:37 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:37 - SecondaryController inicializado.
+2025-06-02 03:21:37 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:21:37 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:21:37 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:21:37 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:21:57 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 03:21:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:57 - livrosController inicializado.
+2025-06-02 03:21:57 - livrosController: Carregando dados dos livros.
+2025-06-02 03:21:57 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:21:57 - livrosController: 3 livros carregados.
+2025-06-02 03:21:59 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 03:21:59 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:21:59 - SecondaryController inicializado.
+2025-06-02 03:21:59 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:21:59 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:21:59 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:21:59 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:22:01 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-02 03:22:01 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:22:01 - leitorController inicializado.
+2025-06-02 03:22:01 - leitorController: Carregando dados dos leitores.
+2025-06-02 03:22:01 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 03:22:01 - leitorController: 16 leitores carregados.
+2025-06-02 03:22:03 - Botão 'Voltar' clicado! Retornando à tela principal.
+2025-06-02 03:22:03 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:22:03 - SecondaryController inicializado.
+2025-06-02 03:22:03 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:22:03 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:22:04 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:22:04 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:22:05 - Botão 'Gerenciar Empréstimos' clicado! Carregando tela de Empréstimos.
+2025-06-02 03:22:05 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:22:05 - emprestimosController inicializado.
+2025-06-02 03:22:05 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 03:22:05 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:22:05 - emprestimosController: 3 empréstimos carregados.
+2025-06-02 03:40:28 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:40:39 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:40:39 - SecondaryController inicializado.
+2025-06-02 03:40:39 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:40:39 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:40:39 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:40:39 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:40:44 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 03:40:44 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:40:44 - livrosController inicializado.
+2025-06-02 03:40:44 - livrosController: Carregando dados dos livros.
+2025-06-02 03:40:44 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:40:44 - livrosController: 3 livros carregados.
+2025-06-02 03:40:47 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 03:40:47 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:40:47 - SecondaryController inicializado.
+2025-06-02 03:40:47 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:40:47 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:40:47 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:40:47 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:40:49 - Botão 'Gerenciar Empréstimos' clicado! Carregando tela de Empréstimos.
+2025-06-02 03:40:49 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:40:49 - emprestimosController inicializado.
+2025-06-02 03:40:49 - emprestimosController: Carregando dados para ComboBoxes.
+2025-06-02 03:40:49 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 03:40:49 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:40:49 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 03:40:49 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:40:49 - emprestimosController: 3 empréstimos carregados.
+2025-06-02 03:41:15 - Botão 'Voltar' clicado na tela de Empréstimos! Retornando à tela principal.
+2025-06-02 03:41:15 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:41:15 - SecondaryController inicializado.
+2025-06-02 03:41:15 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:41:15 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:41:15 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:41:15 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:41:18 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 03:41:18 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:41:18 - livrosController inicializado.
+2025-06-02 03:41:18 - livrosController: Carregando dados dos livros.
+2025-06-02 03:41:18 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:41:18 - livrosController: 3 livros carregados.
+2025-06-02 03:41:51 - Botão Atualizar Livro clicado.
+2025-06-02 03:41:51 - updateLivro: Livro ID 3 atualizado. Linhas afetadas: 1
+2025-06-02 03:41:52 - livrosController: Carregando dados dos livros.
+2025-06-02 03:41:52 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:41:52 - livrosController: 3 livros carregados.
+2025-06-02 03:41:54 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 03:41:54 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:41:54 - SecondaryController inicializado.
+2025-06-02 03:41:54 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:41:54 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:41:54 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:41:54 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:41:57 - Botão 'Gerenciar Empréstimos' clicado! Carregando tela de Empréstimos.
+2025-06-02 03:41:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:41:57 - emprestimosController inicializado.
+2025-06-02 03:41:57 - emprestimosController: Carregando dados para ComboBoxes.
+2025-06-02 03:41:57 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 03:41:57 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:41:57 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 03:41:57 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:41:57 - emprestimosController: 3 empréstimos carregados.
+2025-06-02 03:42:22 - Exemplar disponível para 'Pai Rico Pai Pobre': ID 1
+2025-06-02 03:42:24 - Botão Emprestar Livro clicado.
+2025-06-02 03:42:51 - Botão Excluir Empréstimo clicado.
+2025-06-02 03:42:58 - Botão 'Voltar' clicado na tela de Empréstimos! Retornando à tela principal.
+2025-06-02 03:42:58 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:42:58 - SecondaryController inicializado.
+2025-06-02 03:42:58 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:42:58 - Dashboard: Total de Livros Disponíveis: 3
+2025-06-02 03:42:58 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:42:58 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 03:43:02 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 03:43:02 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:43:02 - livrosController inicializado.
+2025-06-02 03:43:02 - livrosController: Carregando dados dos livros.
+2025-06-02 03:43:02 - SistemaBiblioteca: Fetched 3 livros.
+2025-06-02 03:43:02 - livrosController: 3 livros carregados.
+2025-06-02 03:43:05 - Botão Eliminar Livro clicado.
+2025-06-02 03:43:07 - deleteLivro: Livro ID 3 deletado. Linhas afetadas: 1
+2025-06-02 03:43:09 - livrosController: Carregando dados dos livros.
+2025-06-02 03:43:09 - SistemaBiblioteca: Fetched 2 livros.
+2025-06-02 03:43:09 - livrosController: 2 livros carregados.
+2025-06-02 03:43:11 - Botão Eliminar Livro clicado.
+2025-06-02 03:43:13 - deleteLivro: Livro ID 2 deletado. Linhas afetadas: 1
+2025-06-02 03:43:14 - livrosController: Carregando dados dos livros.
+2025-06-02 03:43:14 - SistemaBiblioteca: Fetched 1 livros.
+2025-06-02 03:43:14 - livrosController: 1 livros carregados.
+2025-06-02 03:43:18 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 03:43:18 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 03:43:18 - SecondaryController inicializado.
+2025-06-02 03:43:18 - SistemaBiblioteca: Fetched 1 livros.
+2025-06-02 03:43:18 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 03:43:18 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 03:43:18 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 04:01:05 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:01:16 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:01:17 - SecondaryController inicializado.
+2025-06-02 04:01:17 - SistemaBiblioteca: Fetched 1 livros.
+2025-06-02 04:01:17 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 04:01:17 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 04:01:17 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 04:01:24 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 04:01:24 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:01:24 - livrosController inicializado.
+2025-06-02 04:01:24 - livrosController: Carregando dados dos livros.
+2025-06-02 04:01:24 - SistemaBiblioteca: Fetched 1 livros.
+2025-06-02 04:01:24 - livrosController: 1 livros carregados.
+2025-06-02 04:01:31 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 04:01:31 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:01:31 - SecondaryController inicializado.
+2025-06-02 04:01:31 - SistemaBiblioteca: Fetched 1 livros.
+2025-06-02 04:01:31 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 04:01:31 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 04:01:31 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 04:01:33 - Botão 'Gerenciar Empréstimos' clicado! Carregando tela de Empréstimos.
+2025-06-02 04:01:33 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:01:33 - emprestimosController inicializado.
+2025-06-02 04:01:33 - emprestimosController: Carregando dados para ComboBoxes.
+2025-06-02 04:01:33 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 04:01:33 - SistemaBiblioteca: Fetched 1 livros.
+2025-06-02 04:01:33 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 04:01:33 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 04:01:33 - emprestimosController: 3 empréstimos carregados.
+2025-06-02 04:20:41 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:20:50 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:20:50 - SecondaryController inicializado.
+2025-06-02 04:20:50 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:20:50 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 04:20:50 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 04:20:50 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 04:20:58 - Botão 'Gerenciar Livros' clicado! Carregando tela de Livros.
+2025-06-02 04:20:58 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:20:59 - livrosController inicializado.
+2025-06-02 04:20:59 - livrosController: Carregando dados dos livros.
+2025-06-02 04:20:59 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:20:59 - livrosController: 51 livros carregados.
+2025-06-02 04:21:08 - Botão 'Voltar' clicado na tela de Livros! Retornando à tela principal.
+2025-06-02 04:21:08 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:21:08 - SecondaryController inicializado.
+2025-06-02 04:21:08 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:21:08 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 04:21:08 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 04:21:08 - Dashboard: 3 empréstimos ativos carregados.
+2025-06-02 04:21:16 - Botão 'Gerenciar Empréstimos' clicado! Carregando tela de Empréstimos.
+2025-06-02 04:21:16 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:21:16 - emprestimosController inicializado.
+2025-06-02 04:21:16 - emprestimosController: Carregando dados para ComboBoxes.
+2025-06-02 04:21:16 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 04:21:16 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:21:16 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 04:21:16 - SistemaBiblioteca: Fetched 3 empréstimos com detalhes.
+2025-06-02 04:21:16 - emprestimosController: 3 empréstimos carregados.
+2025-06-02 04:21:25 - Exemplar disponível para 'O Alquimista': ID 57
+2025-06-02 04:21:36 - Botão Emprestar Livro clicado.
+2025-06-02 04:22:05 - Botão Emprestar Livro clicado.
+2025-06-02 04:22:05 - addEmprestimo: Empréstimo adicionado com sucesso para exemplar 57 e leitor 9
+2025-06-02 04:22:07 - emprestimosController: Carregando dados dos empréstimos.
+2025-06-02 04:22:07 - SistemaBiblioteca: Fetched 4 empréstimos com detalhes.
+2025-06-02 04:22:07 - emprestimosController: 4 empréstimos carregados.
+2025-06-02 04:22:07 - emprestimosController: Carregando dados para ComboBoxes.
+2025-06-02 04:22:07 - SistemaBiblioteca: Fetched 16 leitores.
+2025-06-02 04:22:07 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:22:11 - Botão 'Voltar' clicado na tela de Empréstimos! Retornando à tela principal.
+2025-06-02 04:22:11 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:22:12 - SecondaryController inicializado.
+2025-06-02 04:22:12 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:22:12 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 04:22:12 - SistemaBiblioteca: Fetched 4 empréstimos com detalhes.
+2025-06-02 04:22:12 - Dashboard: 4 empréstimos ativos carregados.
+2025-06-02 04:27:07 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:27:43 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:27:44 - SecondaryController inicializado.
+2025-06-02 04:27:44 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:28:19 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:28:35 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:28:44 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:28:44 - SecondaryController inicializado.
+2025-06-02 04:28:44 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:28:52 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:28:52 - SecondaryController inicializado.
+2025-06-02 04:28:52 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:30:14 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:30:25 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:30:25 - SecondaryController inicializado.
+2025-06-02 04:30:25 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:38:48 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:38:57 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-02 04:38:58 - SecondaryController inicializado.
+2025-06-02 04:38:58 - SistemaBiblioteca: Fetched 51 livros.
+2025-06-02 04:38:58 - Dashboard: Total de Livros Disponíveis: 1
+2025-06-02 04:38:58 - SistemaBiblioteca: Fetched 4 empréstimos com detalhes.
+2025-06-02 04:38:58 - Dashboard: 4 empréstimos ativos carregados.

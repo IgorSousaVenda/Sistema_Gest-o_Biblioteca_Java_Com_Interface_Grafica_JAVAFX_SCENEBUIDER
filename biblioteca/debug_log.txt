@@ -1,0 +1,39 @@
+2025-06-01 15:04:49 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 15:05:00 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 15:05:00 - SecondaryController inicializado.
+2025-06-01 15:05:00 - SecondaryController: Chamando loadData().
+2025-06-01 15:05:00 - loadData() chamado.
+2025-06-01 15:05:00 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 15:05:00 - loadData(): SistemaBiblioteca retornou 4 leitores.
+2025-06-01 15:05:00 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 15:05:00 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 15:05:00 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 15:05:00 - Total de livros disponíveis: 3
+2025-06-01 20:22:53 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:23:05 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:23:05 - SecondaryController inicializado.
+2025-06-01 20:23:05 - SecondaryController: Chamando loadData().
+2025-06-01 20:23:05 - loadData() chamado.
+2025-06-01 20:23:05 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:23:05 - loadData(): SistemaBiblioteca retornou 5 leitores.
+2025-06-01 20:23:05 - SistemaBiblioteca: Fetched 3 empréstimos ativos.
+2025-06-01 20:23:05 - loadData(): SistemaBiblioteca retornou 3 empréstimos ativos.
+2025-06-01 20:23:05 - SistemaBiblioteca: Fetched 3 exemplares.
+2025-06-01 20:23:05 - Total de livros disponíveis: 3
+2025-06-01 20:23:22 - Botão 'Gerenciar Leitores' clicado! Carregando tela de Leitores.
+2025-06-01 20:23:22 - ✅ Conexão com o MySQL estabelecida para SistemaBiblioteca!
+2025-06-01 20:23:23 - leitorController inicializado.
+2025-06-01 20:23:23 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:23:23 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:23:23 - leitorController: 5 leitores carregados.
+2025-06-01 20:23:45 - Botão Atualizar Leitor clicado.
+2025-06-01 20:23:45 - updateLeitor: Leitor ID 1 atualizado. Linhas afetadas: 1
+2025-06-01 20:23:47 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:23:47 - SistemaBiblioteca: Fetched 5 leitores.
+2025-06-01 20:23:47 - leitorController: 5 leitores carregados.
+2025-06-01 20:24:40 - Botão Eliminar Leitor clicado.
+2025-06-01 20:24:41 - deleteLeitor: Leitor ID 4 deletado. Linhas afetadas: 1
+2025-06-01 20:24:44 - leitorController: Carregando dados dos leitores.
+2025-06-01 20:24:44 - SistemaBiblioteca: Fetched 4 leitores.
+2025-06-01 20:24:44 - leitorController: 4 leitores carregados.
+2025-06-01 20:24:46 - Botão Inserir Leitor clicado.

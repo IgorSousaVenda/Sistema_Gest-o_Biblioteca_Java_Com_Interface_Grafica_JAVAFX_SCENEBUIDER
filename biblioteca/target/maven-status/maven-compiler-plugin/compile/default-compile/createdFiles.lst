@@ -1,0 +1,17 @@
+biblioteca\model\Livro.class
+biblioteca\leitorController.class
+biblioteca\model\Leitor.class
+biblioteca\service\SistemaBiblioteca.class
+biblioteca\model\Exemplar.class
+biblioteca\PrimaryController.class
+biblioteca\emprestimosController$2.class
+module-info.class
+biblioteca\model\Autor.class
+biblioteca\livrosController.class
+biblioteca\model\LeitorComEmprestimos.class
+biblioteca\emprestimosController$1.class
+biblioteca\App.class
+biblioteca\Text.class
+biblioteca\emprestimosController.class
+biblioteca\model\Emprestimo.class
+biblioteca\SecondaryController.class
